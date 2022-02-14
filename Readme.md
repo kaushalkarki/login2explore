@@ -8,7 +8,7 @@
 ### It helps developers in faster coding, in-turn reduces development cost.
 ## Release History(release of your JsonPowerDB related code on Github)
 ### JsonPowerDB version v0.3.2.20211203.2599 beta
-### I released the project on github on 28th January, 2022.
+### I released the project on github on 14th February, 2022.
 ## Table of contents
 ### index.html file
 ### Which contains of code of html, jquery, javascript, JsonPowerDB.
